@@ -1,8 +1,4 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
-let g:netrw_dirhist_1='/Users/suncloud/ruby/patients_demo'
-let g:netrw_dirhist_2='/Users/suncloud/ruby/blog'
-let g:netrw_dirhist_3='/Users/suncloud/ruby/patients_demo'
-let g:netrw_dirhist_4='/Users/suncloud/ruby/ruby-china'
-let g:netrw_dirhist_5='/Users/suncloud/ruby/ruby-china/app/controllers/users'
-let g:netrw_dirhist_6='/Users/suncloud/ruby/patients_demo'
+let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_1='/Users/suncloud/Dropbox/wedding'
+let g:netrw_dirhist_2='/Users/suncloud/dp90219.github.io/_posts'
