@@ -1,4 +1,11 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_cnt =9
 let g:netrw_dirhist_1='/Users/suncloud/Dropbox/wedding'
 let g:netrw_dirhist_2='/Users/suncloud/dp90219.github.io/_posts'
+let g:netrw_dirhist_3='/Users/liupeng'
+let g:netrw_dirhist_4='/Users/liupeng/Dropbox/Ruby/sing'
+let g:netrw_dirhist_5='/Users/liupeng/Tmp/blog'
+let g:netrw_dirhist_6='/Users/liupeng/Dropbox/Ruby/sing'
+let g:netrw_dirhist_7='/Users/liupeng/Dropbox/Ruby/dp90219.github.io'
+let g:netrw_dirhist_8='/Users/liupeng'
+let g:netrw_dirhist_9='/Users/liupeng/Dropbox/notes'

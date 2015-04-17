@@ -1,7 +1,12 @@
+:inoremap cc <ESC>%%a
+
+vmap "+y :w !pbcopy<CR><CR>
+nmap "+p :r !pbcopy<CR><CR>
+
+
 set autoread
 set lines=999 columns=9999
 set guifont=Monaco:h14
-
 
 let mapleader = ","
 let g:mapleader = ","
@@ -431,19 +436,6 @@ let g:auto_save = 1
   set hlsearch
   set incsearch
 
-""""""""""""""""""""""""""""""""""""""""
-"
-"             status line
-"
-""""""""""""""""""""""""""""""""""""""""
-
-  " Set the status line the way i like it
-  set statusline=%F:\ %l\ %c
-
-
-  " tell VIM to always put a status line in, even if there is only one window
-  " this means I can also see what is the filename I am in, finally!
-  set laststatus=2
 
 """"""""""""""""""""""""""""""""""""""""
 "
